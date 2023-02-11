@@ -59,7 +59,7 @@
     "jasmine-ts": "^0.3.0",
     "mem": "^8.0.0",
     "ncp": "^2.0.0",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "replace-in-file": "^6.2.0",
     "tslint": "^5.20.1",
     "typescript-parser": "^2.6.1"
